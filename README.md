@@ -1,1 +1,2 @@
-# Production
+前端UI的作业，在Rychou的作业基础上进行二次创作，更改了手风琴轮播，添加了一些新的js
+thanks Rychou
